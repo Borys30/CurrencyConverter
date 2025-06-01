@@ -1,0 +1,5 @@
+{
+  "MaxAgeMinutes": 30,
+  "MaxElements": 100,
+  "EvictionStrategy": 0
+}
